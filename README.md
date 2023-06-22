@@ -1,5 +1,5 @@
 
-## Infection Disease Transmission Dynamics Simulation
+## COMPART: Commuicable disease Modeling & Precition, with Automatic Reporting and Transparent coding.
 <br/>
 
 
