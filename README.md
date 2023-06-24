@@ -1,5 +1,5 @@
 
-## COMPART: Commuicable disease Modeling & Precition, with Automatic Reporting and Transparent coding.
+## COMPART: Commuicable disease Modeling & Prediction Application for Research and Translation
 <br/>
 
 
